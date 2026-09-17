@@ -10,7 +10,8 @@ Estoy aprendiendo Markdown
 - CSS
 - JavaScript
 
-![Markdown Logo](https://icon-icons.com/icon/markdown-here-logo/169967)
+![Markdown Logo](https://images.icon-icons.com/2699/PNG/512/markdown_here_logo_icon_169967.png)
+
 
 ## Tabla
 
