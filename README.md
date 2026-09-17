@@ -10,8 +10,7 @@ Estoy aprendiendo Markdown
 - CSS
 - JavaScript
 
-![Markdown logo](https://commons.wikimedia.org/wiki/File:Markdown-blue-solid.svg)
-
+![Markdown Logo.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.svgrepo.com/svg/361907/markdown))
 
 
 ## Tabla
